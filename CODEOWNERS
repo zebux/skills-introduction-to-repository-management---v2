@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @zebux
+/src/backend/database.py      @zebux
+/src/backend/routers/auth.py  @zebux
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @zebux
